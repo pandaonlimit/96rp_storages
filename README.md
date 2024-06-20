@@ -12,8 +12,8 @@
   Right now, you need players with a job for handling<br>
   the storages. I want to add an automation system<br>
   if you dont want storages being managed by players.<br>
-  Installation guide and setup help comming soon<br>
-  More in "todo"
+  <b>Installation guide and setup help comming soon<br>
+  More in "todo"</b>
 </p>
 <p>
    Feel free to join our discord and support us if u want to :)<br>
