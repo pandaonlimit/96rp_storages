@@ -1,12 +1,18 @@
 # 96rp_storages
 <h2>Rent or buy an item-storage and give acces to your friends with a password</h2>
 <p>
+  Everyone can use and modify this resource for free!<br>
+  Credits would be cool ofc :)<br>
+  This script was made with QBX and ox_inventory
+</p>
+<p>
   This is a pre-release!<br>
   But, everything is working. I just want to add some things<br>
   and check if my freestyle code is 100% secured :D<br>
   Right now, you need players with a job for handling<br>
   the storages. I want to add an automation system<br>
-  if you dont want storages being managed by players<br>
+  if you dont want storages being managed by players.<br>
+  Installation guide comming soon<br>
   More in "todo"
 </p>
 <p>
