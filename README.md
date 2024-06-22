@@ -3,7 +3,7 @@
 <p>
   Everyone can use and modify this resource for free!<br>
   Credits would be cool ofc :)<br>
-  This script was made with QBX, ox_inventory and <a href="https://github.com/smirnoff647/96rp_npc">96rp_npc</a>
+  This script was made with QBX, ox_inventory and <a href="https://github.com/smirnoff647/96rp_npc">96rp_npc</a> (Dependencies)
 </p>
 <p>
   This is a fully working storages management script.<br>
