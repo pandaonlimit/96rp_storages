@@ -3,15 +3,17 @@
 <p>
   Everyone can use and modify this resource for free!<br>
   Credits would be cool ofc :)<br>
-  This script was made with QBX and ox_inventory
+  This script was made with QBX, ox_inventory and <a href="https://github.com/smirnoff647/96rp_npc">96rp_npc</a>
 </p>
 <p>
-  This is a pre-release!<br>
-  But, everything is working. I just want to add some things<br>
-  and check if my freestyle code is 100% secured :D<br>
-  Right now, you need players with a job for handling<br>
-  the storages. I want to add an automation system<br>
-  if you dont want storages being managed by players.<br>
+  This is a fully working storages management script.<br>
+  Its secured against "hackers" and tested!<br>
+  But i tested it in short periods and will put it on<br>
+  our server with the goal to find bugs or "reasoning error"<br>
+  You can add a job for players to manage your storages or/and<br>
+  let the storages handle by my script without any player interaction.<br>
+  I will add a video in the near future where i can explain and show<br>
+  all the features.<br>
   <b>Installation guide and setup help comming soon<br>
   More in "todo"</b>
 </p>
@@ -29,12 +31,15 @@ Current functions:
    <li>change password (with job and ownership)</li>
    <li>activate/deactivate storage (runtime only with job)</li>
    <li>open storage (with password or job)</li>
+   <li>npc for payment interactions</li>
+   <li>automate payment check up</li>
+   <li>automate ownership removal (if payment wasnt paied)</li>
 </ul>
 
 TODO:
 <ul>
-   <li>check security</li>
-   <li>add npc for monthly payment</li>
-   <li>add automate payment check up</li>
-   <li>add automate ownership removal (if payment wasnt paied)</li>
+   <li>security checked ✔️</li>
+   <li>clean code ⌛️</li>
+   <li>add comments ⌛️</li>
+   <li>go through script again to check quality⌛️</li>
 </ul>
