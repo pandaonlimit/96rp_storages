@@ -38,6 +38,7 @@ Current functions:
 
 TODO:
 <ul>
+   <li>nice to have features like animations</li>
    <li>security checked ✔️</li>
    <li>clean code ⌛️</li>
    <li>add comments ⌛️</li>
