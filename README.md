@@ -8,10 +8,10 @@
 <p>
   This is a fully working storages management script.<br>
   Its secured against "hackers" and tested!<br>
-  But i tested it in short periods and will put it on<br>
-  our server with the goal to find bugs or "reasoning error"<br>
+  But i have tested it at short intervals and will put it<br>
+  on our server soon to find bugs and other errors<br>
   You can add a job for players to manage your storages or/and<br>
-  let the storages handle by my script without any player interaction.<br>
+  let the storages being handled by my script without any player interaction.<br>
   I will add a video in the near future where i can explain and show<br>
   all the features.<br>
   <b>Installation guide and setup help comming soon<br>
